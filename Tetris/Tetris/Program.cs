@@ -11,9 +11,9 @@ namespace Tetris
 
             int x1 = 2;
             int y1 = 3;
-            char c2 = '*';
+            char c1 = '*';
 
-            Drow(x1, y1, c2);
+            Drow(x1, y1, c1);
            
             Console.ReadLine();
         }
